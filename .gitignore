@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# macOS metadata
+.DS_Store
+
+# Experiment outputs (keep intentional releases only)
+energy_landscape_*
+
